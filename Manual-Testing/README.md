@@ -1,1 +1,1 @@
-
+This section contains my manual QA work, including test cases, bug reports, documentation, and analysis for training and demo applications. Each project demonstrates requirement analysis, scenario design, defect identification, and structured documentation.
