@@ -1,4 +1,4 @@
-Guru99 Bank Application – Manual Testing
+# Guru99 Bank Application – Manual Testing
 
 This project covers a full manual testing workflow for the Guru99 Bank demo application.  
 Included materials:
