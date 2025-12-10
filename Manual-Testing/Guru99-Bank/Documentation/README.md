@@ -1,4 +1,4 @@
-Documentation
+# Documentation
 
 This folder contains reference and requirement materials for the Guru99 Bank project:
 - SRS v1, v2, v3  
