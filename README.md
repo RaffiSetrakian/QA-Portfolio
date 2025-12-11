@@ -33,7 +33,7 @@ Key capabilities:
 - Writes results + Pass/Fail back to Excel
 - End-to-end data-driven workflow
 
-📁 Located in:  
+Located in:  
 `Automation-Testing/Interest-Calculator/`
 
 This project demonstrates data-driven testing, Excel automation (OpenPyXL), and validation logic.
@@ -58,7 +58,7 @@ This project demonstrates broad Selenium coverage across many element types.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python (with PyCharm)
 - Selenium WebDriver  
 - OpenPyXL (Excel automation)  
@@ -70,7 +70,7 @@ This project demonstrates broad Selenium coverage across many element types.
 
 ---
 
-## 🎯 Purpose of This Portfolio
+## Purpose of This Portfolio
 The goal of this repository is to demonstrate:
 - Real, hands-on testing skills
 - Manual and automation projects with complete artifacts
