@@ -8,10 +8,10 @@ This repository is a demonstration of my applied QA experience, such as manual t
 
 ### Guru99 Bank – Manual Testing
 • An entire manual testing project including: 
-• Requirement review (SRS v1, v2, v3) 
-• System mockups and reference materials. 
+• Requirement review (SRS v1, v2, v3)  
+• System mockups and reference materials.  
 • Customer and Manager modules test cases. 
-• Bug tracking 
+• Bug tracking
 • Integration planning
 
 Located in:  
@@ -22,14 +22,14 @@ This project illustrates that there was a structured documentation, scenario cre
 ---
 
 ### Calculator of Compound Interest - Automated Interpretation.
-Automates:  
+Automates:
 https://www.calculatestuff.com/financial/compound-interest-calculator
 
 Key Capabilities:
-• Reads test data and expected results from Excel  
-• Fills the form automatically  
-• Takes the actual result from the website  
-• Writes the actual result + Pass/Fail back into Excel  
+• Reads test data and expected results from Excel
+• Fills the form automatically
+• Takes the actual result from the website
+• Writes the actual result + Pass/Fail back into Excel
 • Gives a final report for each test
 
 Located in:  
@@ -40,7 +40,7 @@ This project uses data-driven testing, automation of excel (OpenPyXL), and valid
 ---
 
 ### Web Elements Automation – Selenium Practice Website
-Automates the UI interactions on: 
+Automates the UI interactions on:
 https://testautomationpractice.blogspot.com
 
 Covers:
