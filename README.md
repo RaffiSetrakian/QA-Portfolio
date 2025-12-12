@@ -1,47 +1,46 @@
 # QA Portfolio – Manual & Automation Testing Projects
 
-This repository showcases my practical QA work, including manual testing, automation with Selenium, data-driven testing, and documentation.  
-All projects reflect real testing workflows: requirement review, test design, execution, defect reporting, and automation scripting.
+This repository is a demonstration of my applied QA experience, such as manual testing, Selenium-based automation, data-driven testing, documentation.  The projects are based on actual test processes: requirement review, test design, test execution, defect reporting and writing automation scripts.
 
 ---
 
-## 📂 Projects Included
+## Projects Included
 
-### 1. Guru99 Bank – Manual Testing
-A full manual testing project covering:
-- Requirement review (SRS v1, v2, v3)
-- System mockups and reference materials
-- Test cases for Customer & Manager modules
-- Bug tracking
-- Integration planning
+### Guru99 Bank – Manual Testing
+• An entire manual testing project including: 
+• Requirement review (SRS v1, v2, v3) 
+• System mockups and reference materials. 
+• Customer and Manager modules test cases. 
+• Bug tracking 
+• Integration planning
 
-📁 Located in:  
+Located in:  
 `Manual-Testing/Guru99-Bank/`
 
-This project demonstrates structured documentation, scenario creation, and end-to-end test design.
+This project illustrates that there was a structured documentation, scenario creation, and end-to-end test design. 
 
 ---
 
-### 2. Compound Interest Calculator – Data-Driven Automation
+### Calculator of Compound Interest - Automated Interpretation.
 Automates:  
 https://www.calculatestuff.com/financial/compound-interest-calculator
 
-Key capabilities:
-- Reads input & expected values from Excel
-- Automates form filling
-- Captures actual results
-- Writes results + Pass/Fail back to Excel
-- End-to-end data-driven workflow
+Key Capabilities:
+• Reads test data and expected results from Excel  
+• Fills the form automatically  
+• Takes the actual result from the website  
+• Writes the actual result + Pass/Fail back into Excel  
+• Gives a final report for each test
 
 Located in:  
 `Automation-Testing/Interest-Calculator/`
 
-This project demonstrates data-driven testing, Excel automation (OpenPyXL), and validation logic.
+This project uses data-driven testing, automation of excel (OpenPyXL), and validation logic.
 
 ---
 
-### 3. Web Elements Automation – Selenium Practice Website
-Automates UI interactions on:  
+### Web Elements Automation – Selenium Practice Website
+Automates the UI interactions on: 
 https://testautomationpractice.blogspot.com
 
 Covers:
@@ -51,10 +50,10 @@ Covers:
 - Dynamic elements
 - Full workflow automation
 
-📁 Located in:  
+Located in:  
 `Automation-Testing/Web-Elements-Automation/`
 
-This project demonstrates broad Selenium coverage across many element types.
+This project shows wide coverage of Selenium across many different types of elements.
 
 ---
 
@@ -71,11 +70,11 @@ This project demonstrates broad Selenium coverage across many element types.
 ---
 
 ## Purpose of This Portfolio
-The goal of this repository is to demonstrate:
-- Real, hands-on testing skills
-- Manual and automation projects with complete artifacts
-- Ability to create organized, structured testing documentation
-- Experience with UI automation and data-driven testing
-- A clear understanding of QA workflows
+This portfolio is meant to show:
+- Practical, hands-on testing skills  
+- Complete manual and automation testing work  
+- Clear and organized testing documentation  
+- Experience with UI automation and data-driven testing  
+- A solid understanding of basic QA processes  
 
-This portfolio is actively updated as I continue improving and expanding my QA skills.
+This portfolio is actively updated as I keep on enhancing and enlarging my QA competencies.
