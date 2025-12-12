@@ -7,13 +7,12 @@ This repository is a demonstration of my applied QA experience, such as manual t
 ## Projects Included
 
 ### Guru99 Bank – Manual Testing
-• An entire manual testing project including:
-• Requirement review (SRS v1, v2, v3)
-• System mockups and reference materials.
-• Customer and Manager modules test cases.
-• Bug tracking
-• Integration planning
-
+An entire manual testing project including:
+- Requirement review (SRS v1, v2, v3)  
+- System mockups and reference materials  
+- Test cases for Customer and Manager modules  
+- Bug tracking  
+- Integration planning
 Located in:  
 `Manual-Testing/Guru99-Bank/`
 
