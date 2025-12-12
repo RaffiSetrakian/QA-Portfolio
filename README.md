@@ -25,12 +25,12 @@ This project illustrates that there was a structured documentation, scenario cre
 Automates:
 https://www.calculatestuff.com/financial/compound-interest-calculator
 
-Key Capabilities:
-• Reads test data and expected results from Excel
-• Fills the form automatically
-• Takes the actual result from the website
-• Writes the actual result + Pass/Fail back into Excel
-• Gives a final report for each test
+Key Capabilities:  
+- Reads test data and expected results from Excel  
+- Fills the form automatically  
+- Takes the actual result from the website  
+- Writes the actual result + Pass/Fail back into Excel  
+- Gives a final report for each test  
 
 Located in:  
 `Automation-Testing/Interest-Calculator/`
