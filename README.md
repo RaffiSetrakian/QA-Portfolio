@@ -1,4 +1,4 @@
-# QA Portfolio – Manual & Automation Testing Projects
+# QA Portfolio - Manual & Automation Testing Projects
 
 This repository is a demonstration of my applied QA experience, such as manual testing, Selenium-based automation, data-driven testing, documentation.  The projects are based on actual test processes: requirement review, test design, test execution, defect reporting and writing automation scripts.
 
@@ -39,7 +39,7 @@ This project uses data-driven testing, automation of excel (OpenPyXL), and valid
 
 ---
 
-### Web Elements Automation – Selenium Practice Website
+### Web Elements Automation - Selenium Practice Website
 Automates the UI interactions on:
 https://testautomationpractice.blogspot.com
 
