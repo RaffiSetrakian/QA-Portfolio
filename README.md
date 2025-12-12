@@ -13,6 +13,7 @@ An entire manual testing project including:
 - Test cases for Customer and Manager modules  
 - Bug tracking  
 - Integration planning
+
 Located in:  
 `Manual-Testing/Guru99-Bank/`
 
