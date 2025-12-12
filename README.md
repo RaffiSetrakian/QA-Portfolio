@@ -1,6 +1,6 @@
 # QA Portfolio - Manual & Automation Testing Projects
 
-This repository is a demonstration of my applied QA experience, such as manual testing, Selenium-based automation, data-driven testing, documentation.  The projects are based on actual test processes: requirement review, test design, test execution, defect reporting and writing automation scripts.
+This repository represents my QA experience, such as manual testing, Selenium-based automation, data-driven testing, documentation.  The projects are based on actual test processes: requirement review, test design, test execution, defect reporting and writing automation scripts.
 
 ---
 
