@@ -5,4 +5,4 @@ version: "1.0"
 linter: jetbrains/qodana-python:latest
 
 include:
-  - path: Automation-Testing/Web-Elements-Automation/Scripts/Automation Scripts.py
+  - path: Automation-Testing/Web-Elements-Automation
